@@ -3,6 +3,11 @@ package com.java.collection;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Hashmap思考
+ * @author lxh
+ *
+ */
 public class TestHashMap {
 
 	public static void main(String[] args) {
